@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nftkastle-dev-90507-authRole",
+      "UnauthRoleArn": "arn:aws:iam::360316488020:role/amplify-nftkastle-dev-90507-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::360316488020:role/amplify-nftkastle-dev-90507-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nftkastle-dev-90507-deployment",
+      "UnauthRoleName": "amplify-nftkastle-dev-90507-unauthRole",
+      "StackName": "amplify-nftkastle-dev-90507",
+      "StackId": "arn:aws:cloudformation:us-east-1:360316488020:stack/amplify-nftkastle-dev-90507/7d3c2a10-1ecc-11ed-b498-0e7c22c2b06f",
+      "AmplifyAppId": "d1ncyh9ur4s3ig"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1ncyh9ur4s3ig",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
